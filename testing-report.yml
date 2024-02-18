@@ -76,7 +76,7 @@
   status: pass     
 
 - summary: |
-    Проверка настройки игрового звука  
+    Проверка настройки звука  
   status: fail 
 
 - summary: |
