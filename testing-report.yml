@@ -44,6 +44,10 @@
   status: pass 
 
 - summary: |
+    Проверка кнопки сдаться в игре
+  status: pass  
+
+- summary: |
     Проверка создания игры с случайным пользователем
   status: pass 
 
