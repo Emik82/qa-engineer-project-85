@@ -48,6 +48,18 @@
   status: pass  
 
 - summary: |
+    Проверка завершения игры по времени
+  status: pass
+
+- summary: |
+    Проверка победы в игре
+  status: pass  
+
+- summary: |
+    Проверка поражения в игре 
+  status: pass
+
+- summary: |
     Проверка создания игры с случайным пользователем
   status: pass 
 
