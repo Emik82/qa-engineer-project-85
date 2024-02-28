@@ -56,6 +56,14 @@
   status: pass  
 
 - summary: |
+    Проверка сброса редактора кода в игре
+  status: pass  
+
+- summary: |
+    Проверка кнопки "Run" без решения задачи
+  status: pass  
+
+- summary: |
     Проверка завершения игры по времени
   status: pass
 
@@ -101,6 +109,10 @@
 
 - summary: |
     Проверка приватных сообщенний
+  status: pass  
+
+- summary: |
+    Проверка получения приватных сообщенний
   status: pass  
   
 - summary: |
